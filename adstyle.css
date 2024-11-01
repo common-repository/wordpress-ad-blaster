@@ -1,0 +1,13 @@
+/* Below is the settings for the main ad display. center text, change its color, all kinds of changes are possible with css. you can also remove css code such as color and the font will take on default color of the overall site. same goes for other settings like text align, background color, etc.*/
+
+        .adbox {
+         background-color: transparent; 
+         text-align: center;
+         color: blue;
+         }
+
+
+/* Below is the way the Title shows up for the Ad Box. I kept this seperate from the deault theme so you can adjust how you display the title of the ad widget */
+        .adb_title {
+                text-align: left;
+                      }
